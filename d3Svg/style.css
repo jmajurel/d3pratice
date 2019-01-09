@@ -1,0 +1,13 @@
+svg, input {
+  margin: 0 auto 10px;
+  display: block;
+}
+
+html,body {
+  width: 100vw;
+  height: 100vh;
+}
+
+svg {
+  border: solid black 2px;
+}
